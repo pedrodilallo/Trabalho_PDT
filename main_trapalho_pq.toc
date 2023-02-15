@@ -1,0 +1,17 @@
+\babel@toc {brazil}{}\relax 
+\contentsline {section}{\numberline {1}Identificação e reconhecimento da situação estudada}{3}{}%
+\contentsline {subsection}{\numberline {1.1}Caracterização da Empresa}{3}{}%
+\contentsline {subsection}{\numberline {1.2}Situação Estudada}{3}{}%
+\contentsline {subsection}{\numberline {1.3}Instrumentos de Trabalho}{3}{}%
+\contentsline {subsection}{\numberline {1.4}Layout}{3}{}%
+\contentsline {subsection}{\numberline {1.5}Sequência das atividades}{3}{}%
+\contentsline {subsection}{\numberline {1.6}Pessoal}{3}{}%
+\contentsline {subsection}{\numberline {1.7}Tarefas}{3}{}%
+\contentsline {subsection}{\numberline {1.8}Rendimento e produtividade}{3}{}%
+\contentsline {subsubsection}{\numberline {1.8.1}Produção}{3}{}%
+\contentsline {subsubsection}{\numberline {1.8.2}Produtividade}{3}{}%
+\contentsline {subsubsection}{\numberline {1.8.3}Qualidade}{3}{}%
+\contentsline {subsection}{\numberline {1.9}Duração do trabalho}{3}{}%
+\contentsline {subsection}{\numberline {1.10}Ambiente Físico-Químico do Trabalho}{3}{}%
+\contentsline {subsection}{\numberline {1.11}Saúde dos Operadores}{3}{}%
+\contentsline {section}{\numberline {2}Análise e Diagnóstico}{3}{}%
