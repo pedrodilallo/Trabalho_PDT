@@ -1,0 +1,16 @@
+# ignora todos os arquivos
+*
+/PCP/.ipynb_checkpoints
+# mantém apenas os seguintes tipos de arquivo
+!*.tex
+!*.md
+!*.txt
+!*.jpg
+!*.jpeg
+!*.png
+!*.ipynb
+!*.csv
+# analisar o conteúdo dentro das pastas
+!*/
+# add gitignore
+!*.gitignore
